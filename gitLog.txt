@@ -1,0 +1,29 @@
+commit 80a44b9dc898053028d36eb54d8eb94d00dedc45
+Author: tfeehan <tom@brazen.com>
+Date:   Mon Mar 26 14:29:04 2018 -0400
+
+    added another exclusion to gitignore
+
+commit 034cc36081cd4ace6db4dc886e4c7ef65a459127
+Author: tfeehan <tom@brazen.com>
+Date:   Mon Mar 26 14:26:19 2018 -0400
+
+    added another exclusion to gitignore
+
+commit a9d95c4c45c570dda385ee1806e765552e5d0308
+Author: tfeehan <tom@brazen.com>
+Date:   Mon Mar 26 14:22:33 2018 -0400
+
+    added gitignore
+
+commit 9bd41caa5c9c876901ff9189ac3cf4a39667019d
+Author: tfeehan <tom@brazen.com>
+Date:   Mon Mar 26 14:10:55 2018 -0400
+
+    added two files
+
+commit eb0e87babaf878a5eaa7ca77c53783c399021120
+Author: tfeehan <tom@brazen.com>
+Date:   Mon Mar 26 14:06:38 2018 -0400
+
+    added readme.txt
