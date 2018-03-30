@@ -18,3 +18,4 @@ fi
 until userGuessIsRight;
 do
 	userGuessIsRight
+done
