@@ -1,0 +1,24 @@
+The GitHub repository should *only* have the following three files:
+1. Bash script called guessinggame.sh
+2. a makefile
+3. A markdown file called README.md
+
+1. guessinggame.sh should have the following behavior:
+* When program starts, user asked how many files are in the current directory, then prompt for a guess.
+* If answer is wrong the user should be told their guess was either too low or too high, then they should be prompted to guess again.
+* If answer is right then they should be congratulated and the program should end.
+* The program should not end until the user has entered the correct number of files in the current directory.
+*Program should be run by entering bash guessinggame.sh into the console.
+*The program should contain one function, loop, and IF statement.
+*Program should be more than 20 lines of code and less than 50.
+
+2. The makefile should produce the README.md which should contain the following information:
+* Title of project
+* Date and time at which the make was run.
+* Number of lines of code contained in guessinggame.sh
+
+3. README.md should be produced entirely from the makefile and should not be edited by hand.
+* The second URL should be the GitHub Pages site that is generated from the READ.me file.
+
+
+* ALL CRITERIA ABOVE MUST BE MET TO RECIEVE FULL CREDIT!!
